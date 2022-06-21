@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.title {
+    @apply left-2 right-2 top-2 bottom-2 absolute;
+}
