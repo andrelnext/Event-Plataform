@@ -12,10 +12,10 @@ export function Video(props: VideoProps) {
     const { data } = useGetLessonBySlugQuery({
         variables: {
             slug: props.lessonSlug,
-        }
-    })
+        },
+    });
 
-    if (!data) {
+    if (!data || !data.lesson) {
         return (
             <div className="flex-1">
                 <div className="w-full h-1/2 flex justify-center items-center">
