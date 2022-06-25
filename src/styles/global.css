@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-.title {
-    @apply left-2 right-2 top-2 bottom-2 absolute;
+body {
+    @apply bg-gray-900 text-gray-100;
+    -webkit-font-smoothing: antialiased;
 }
