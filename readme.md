@@ -1,7 +1,7 @@
 # Sala de aula de Eventos RocketSeat
 Criado em uma semana de imersao da RocketSeat
 
-**Link to project:** localhost:3000
+**Link to project:** event-plataforms-opal.vercel.app
 
 ![alt tag](https://github.com/M0nicaVaz/classroom-platform/raw/main/src/assets/.github/preview.gif?raw=true)
 
