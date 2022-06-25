@@ -23,5 +23,5 @@ Não importa qual seja o nível de experiência, ser engenheiro significa aprend
 ## Contatos:
 Entre em contato comigo o/:
 
-**Linkedin:** (https://www.linkedin.com/in/andre-cristo-998341200/)
+**Linkedin:** [Linkedin](https://www.linkedin.com/in/andre-cristo-998341200/)
 
